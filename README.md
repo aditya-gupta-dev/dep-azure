@@ -6,6 +6,13 @@ Download a youtube video just by it's video ID. No Auth required.
     Assets downloader
     Dark/Light mode toggle
 
+## Tech Stack
+    Next js 14 App router 
+    Tailwind CSS
+    shadcn-ui
+    next themes
+    ytdl
+
 
 ## Getting Started
 
