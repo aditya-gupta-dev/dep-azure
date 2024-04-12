@@ -4,7 +4,7 @@ Download a youtube video just by it's video ID. No Auth required.
 
 ## Features:- 
     Assets downloader
-    Dark/Ligth mode toggle
+    Dark/Light mode toggle
 
 
 ## Getting Started
