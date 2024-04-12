@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Download a youtube video just by it's video ID. No Auth required.
 
+## Features:- 
+    Assets downloader
+    Dark/Ligth mode toggle
+
+
 ## Getting Started
 
 First, run the development server:
